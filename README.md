@@ -49,7 +49,7 @@ Aplikasi memiliki tampilan utama dengan beberapa komponen berikut:
 
 ---
 
-## **Teknologi yang Digunakan**
+## **Library yang Digunakan**
 - **Java Swing** untuk GUI  
 - **ArrayList** untuk menyimpan data mahasiswa  
 - **JTable** untuk menampilkan daftar mahasiswa  
