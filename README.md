@@ -52,7 +52,13 @@ Aplikasi memiliki tampilan utama dengan beberapa komponen berikut:
 ## **Library yang Digunakan**
 - **Java Swing** untuk GUI  
 - **ArrayList** untuk menyimpan data mahasiswa  
-- **JTable** untuk menampilkan daftar mahasiswa  
+- **JTable** untuk menampilkan daftar mahasiswa
 - **JOptionPane** untuk konfirmasi penghapusan  
 
 ---
+## **Dokum**
+
+https://github.com/user-attachments/assets/819e4d88-ba7b-4e9d-9611-d8e78e104939
+
+
+
